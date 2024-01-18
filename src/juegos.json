@@ -1,0 +1,113 @@
+[
+	{
+		"title": "God of War Ragnarök",
+		"description": "Accion",
+		"price": 50,
+		"thumbnail": "/images/juego1.jpg",
+		"code": "01",
+		"stock": 50,
+		"category": "Juegos",
+		"estado": true,
+		"id": 1
+	},
+	{
+		"title": "Resident Evil 4",
+		"description": "Zombie",
+		"price": 80,
+		"thumbnail": "/images/juego2.jpg",
+		"code": "02",
+		"stock": 80,
+		"category": "Juegos",
+		"estado": true,
+		"id": 2
+	},
+	{
+		"title": "TMNT",
+		"description": "Tortugas",
+		"price": 20,
+		"thumbnail": "/images/juego3.jpg",
+		"code": "03",
+		"stock": 20,
+		"category": "Juegos",
+		"estado": true,
+		"id": 3
+	},
+	{
+		"title": "Fifa 24",
+		"description": "Deporte",
+		"price": 100,
+		"thumbnail": "/images/juego4.jpg",
+		"code": "04",
+		"stock": 100,
+		"category": "Juegos",
+		"estado": true,
+		"id": 4
+	},
+	{
+		"title": "NBA 24",
+		"description": "Deporte",
+		"price": 90,
+		"thumbnail": "/images/juego5.jpg",
+		"code": "05",
+		"stock": 90,
+		"category": "Juegos",
+		"estado": true,
+		"id": 5
+	},
+	{
+		"title": "Naruto",
+		"description": "Ninja",
+		"price": 65,
+		"thumbnail": "/images/juego6.jpg",
+		"code": "06",
+		"stock": 65,
+		"category": "Juegos",
+		"estado": true,
+		"id": 6
+	},
+	{
+		"title": "Fortnite",
+		"description": "Disparos",
+		"price": 55,
+		"thumbnail": "/images/juego7.jpg",
+		"code": "07",
+		"stock": 55,
+		"category": "Juegos",
+		"estado": true,
+		"id": 7
+	},
+	{
+		"title": "Resident Evil 2",
+		"description": "Zombie",
+		"price": 160,
+		"thumbnail": "/images/juego8.jpg",
+		"code": "08",
+		"stock": 60,
+		"category": "Juegos",
+		"estado": true,
+		"id": 8
+	},
+	{
+		"title": "Metal Gear",
+		"description": "Aventura",
+		"price": 110,
+		"thumbnail": "/images/juego9.jpg",
+		"code": "09",
+		"stock": 100,
+		"category": "Juegos",
+		"estado": true,
+		"id": 9
+	},
+	{
+		"title": "Metal Gear 2",
+		"description": "Aventura",
+		"price": 130,
+		"thumbnail": "/images/juego10.jpg",
+		"code": "10",
+		"stock": 30,
+		"category": "Juegos",
+		"estado": true,
+		"id": 10
+	}
+	
+]
